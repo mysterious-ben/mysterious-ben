@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome, traveller :wave:
+
+- My favorite open-source projects are pinned down below. Feel free to contribute!
+- You can find my resume and contacts at https://datascienceforhire.net.
 
 <!--
 **mysterious-ben/mysterious-ben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
